@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=IDA 64
+Exec=/opt/ida-6.8/idaq64
+Icon=/opt/ida-6.8/appico64.png
+Terminal=false
