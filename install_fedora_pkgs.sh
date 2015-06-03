@@ -1,4 +1,7 @@
 #!/bin/bash
+# IDA Linux is a 32-bit application (even IDA 64).
+# Run this script when installing IDA Linux to ensure
+# all required 32-bit libraries are installed.
 sudo yum install \
     glib2.i686 \
     freetype.i686 \
